@@ -53,9 +53,23 @@ Normativa auxiliar para la impugnación
 
 * Constitución española
 
-
 Resoluciones
 ============
+
+* Sentencia de 19-06-2001 del Tribunal Europeo de Derechos Humanos.
+  Caso Kreuz contra Polonia. Formato pdf, lengua inglesa.
+
+  http://hudoc.echr.coe.int/webservices/content/pdf/001-59519
+
+* Sentencia 20/2012, de 16 de febrero de 2012, del Tribunal
+  Constitucional.
+
+  https://www.boe.es/buscar/doc.php?id=BOE-A-2012-3535
+
+* Sentencia 103/2012, de 9 de mayo de 2012, del Tribunal
+  Constitucional.
+
+  https://www.boe.es/diario_boe/txt.php?id=BOE-A-2012-7513
 
 Doctrina
 ========
