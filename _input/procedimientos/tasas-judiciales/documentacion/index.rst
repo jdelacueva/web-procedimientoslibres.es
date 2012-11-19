@@ -82,3 +82,15 @@ Doctrina
 
 .. _Voto Particular de Don Claro José Fernández y Doña Concepción Espejel:  http://www.poderjudicial.es/stfls/CGPJ/COMISI%C3%93N%20DE%20ESTUDIOS%20E%20INFORMES/INFORMES%20DE%20LEY/FICHERO/Voto%20Particular%20%20de%20D.Claro%20Jos%C3%A9%20Fern%C3%A1ndez%20%20y%20D%C2%AA%20Concepci%C3%B3n%20Espejel.pdf
 
+* Informe del Consejo General de la Abogacía Española
+
+  http://www.icacor.es/sp/noticias/2012/TasasJudiciales_2012-07-12_InformeCGAE-ConsejoEstado.pdf
+
+* Observaciones de UGT y CCOO al Proyecto de Ley.
+
+  http://www.ugt.es/actualidad/2012/septiembre/ObservUGTCCOOLEYTASASADMNJUSTICIAINSTNACTOXICOLOG%C3%8DACIENCIASFORENSES.pdf
+
+* Asociación Española de Abogados de Familia (AEAFA) ante el proyecto
+  de Ley de Tasas
+
+  http://www.aeafa.es/pdf/2012_10_29_AEAFA_LEY_TASAS.pdf

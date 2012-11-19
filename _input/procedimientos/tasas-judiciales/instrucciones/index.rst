@@ -14,7 +14,7 @@ Procedimiento de creación del escrito
    escrito se planteará la cuestión de inconstitucionalidad de la *ley
    de tasas judiciales*.
 
-2. Para contribuir en la creación del escrito puede entrar en
+2. Para contribuir en la creación del escrito puede entrar en el
    `siguiente enlace`_, donde se halla una herramienta de escritura
    colaborativa.
 
