@@ -1,0 +1,36 @@
+{% extends "page.html" %}
+
+{% block navigation -%}
+<!-- Inicio de menú de navegación --> 
+<div id="navigation" class="menu"> 
+  <ul>
+      <li><a href="/procedimientos/defensa-copyleft/" title="Descripción">Descripción</a>
+      <ul>
+        <li><a href="/procedimientos/defensa-copyleft/#destinatarios" title="Destinatarios">Destinatarios</a></li>
+        <li><a href="/procedimientos/defensa-copyleft/#utilidad" title="Utilidad">Utilidad</a></li>
+      </ul>
+      </li>
+      <li><a href="/procedimientos/defensa-copyleft/instrucciones" title="Instrucciones">Instrucciones</a>
+      <ul>
+          <li><a href="/procedimientos/defensa-copyleft/instrucciones/#instrucciones-para-letrados" title="Para letrados">Para letrados</a></li>
+          <li><a href="/procedimientos/defensa-copyleft/instrucciones/#instrucciones-para-establecimientos" title="Para establecimientos">Para establecimientos</a></li>
+        </ul>
+      
+      </li>
+      <li class="parentlink"><a href="/procedimientos/defensa-copyleft/documentacion" title="Documentación de trabajo">Documentación de trabajo</a>
+        <ul>
+          <li><a href="/procedimientos/defensa-copyleft/documentacion/#normas" title="Normas jurídicas">Normas jurídicas</a></li>
+          <li><a href="/procedimientos/defensa-copyleft/documentacion/#resoluciones" title="Resoluciones">Resoluciones judiciales</a></li>
+          <li><a href="/procedimientos/defensa-copyleft/documentacion/#doctrina" title="Doctrina">Doctrina</a></li>
+        </ul>
+      </li>
+      <li><a href="/procedimientos/defensa-copyleft/escritos" title="Escritos">Escritos</a></li>
+      <li><a href="/procedimientos/defensa-copyleft/historial" title="Historial del procedimiento">Historial del procedimiento</a></li>
+    </ul>
+</div>
+<div style="clear:both;"></div>
+<!-- Fin de menú -->
+{% endblock -%}  
+{{ page.content }}
+
+

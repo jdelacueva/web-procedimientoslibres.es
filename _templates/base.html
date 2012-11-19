@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es-es">
+<head>
+   <title>{{ page.title }}</title>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+   <meta name="author" content="Javier de la Cueva" />
+   <meta name="description" content="Procedimientos libres. Función social de la abogacía en la era digital." />
+   <meta name="keywords" content="derecho, ley, procedimientos libres, derecho consumidores y usuarios" /> 
+   <link rel="stylesheet" href="/css/style.css" type="text/css" media="screen, projection" />
+</head>
+<body>
+<a href="https://github.com/jdelacueva/web-procedimientoslibres.es"><img style="position: absolute; top: 0; right: 0; border: 0;" src="/img/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
+<div class="site">
+  <div class="title">
+    <a href="/"><h1>{{ settings.website_title }}</h1></a>
+  </div>
+  {% block content %}{% endblock %}
+  <div class="footer">
+    <div class="contact">
+      <p>
+        Copyright, 2012. <a href="{{ settings.author_website }}">{{ settings.author_name }}</a> bajo licencia CC-By.
+      </p>
+    </div>
+    <div class="rss">
+      <a href="atom.xml"><img src="/img/rss.png" alt="Subscribe to RSS Feed" /></a>
+    </div>
+  </div>
+</div>
+</body>
+</html>

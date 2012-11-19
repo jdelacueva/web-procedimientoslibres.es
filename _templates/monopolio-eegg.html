@@ -1,0 +1,29 @@
+{% extends "page.html" %}
+
+{% block navigation -%}
+<!-- Inicio de menú de navegación --> 
+<div id="navigation" class="menu"> 
+  <ul>
+      <li class="parentlink"><a href="/procedimientos/denuncia-monopolio-eegg/" title="Descripción">Descripción</a>
+      <ul>
+        <li><a href="/procedimientos/denuncia-monopolio-eegg/#destinatarios" title="Destinatarios">Destinatarios</a></li>
+        <li><a href="/procedimientos/denuncia-monopolio-eegg/#utilidad" title="Utilidad">Utilidad</a></li>
+      </ul>
+      </li>
+      <li><a href="/procedimientos/denuncia-monopolio-eegg/instrucciones" title="Instrucciones">Instrucciones</a></li>
+      <li class="parentlink"><a href="/procedimientos/denuncia-monopolio-eegg/documentacion" title="Documentación de trabajo">Documentación de trabajo</a>
+        <ul>
+          <li><a href="/procedimientos/denuncia-monopolio-eegg/documentacion/#normas" title="Normas jurídicas">Normas jurídicas</a></li>
+          <li><a href="/procedimientos/denuncia-monopolio-eegg/documentacion/#doctrina" title="Doctrina">Doctrina</a></li>
+        </ul>
+      </li>
+      <li><a href="/procedimientos/denuncia-monopolio-eegg/escritos" title="Escritos">Escritos</a></li>
+      <li><a href="/procedimientos/denuncia-monopolio-eegg/historial" title="Historial del procedimiento">Historial del procedimiento</a></li>
+    </ul>
+</div>
+<div style="clear:both;"></div>
+<!-- Fin de menú -->
+{% endblock -%}  
+{{ page.content }}
+
+

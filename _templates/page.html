@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div id="post">
+  <h2>{{ page.title }}</h2>
+  <p class="meta">Inicio del procedimiento: {{ page.date|datetimeformat("%d-%m-%Y") }}
+  </p>
+  {% if page.fecha_final %}
+  <h3>Procedimiento Finalizado</h3>
+  <p class="meta">Finalización del procedimiento: {{ page.fecha_final}}</p>
+  {% endif %}
+</p>
+  {% block navigation %}{% endblock %}
+  {{ page.content }}
+</div>
+{% endblock %}

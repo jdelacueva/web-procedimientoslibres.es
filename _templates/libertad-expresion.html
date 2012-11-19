@@ -1,0 +1,29 @@
+{% extends "page.html" %}
+
+{% block navigation -%}
+<!-- Inicio de menú de navegación --> 
+<div id="navigation" class="menu"> 
+  <ul>
+    <li class="parentlink"><a href="/procedimientos/defensa-libertad-expresion/" title="Descripción">Descripción</a>
+      <ul>
+        <li><a href="/procedimientos/defensa-libertad-expresion/#destinatarios" title="Destinatarios">Destinatarios</a></li>
+        <li><a href="/procedimientos/defensa-libertad-expresion/#utilidad" title="Utilidad">Utilidad</a></li>
+      </ul>
+    </li>
+    <li><a href="/procedimientos/defensa-libertad-expresion/instrucciones" title="Instrucciones">Instrucciones</a></li>
+    <li class="parentlink"><a href="/procedimientos/defensa-libertad-expresion/documentacion" title="Documentación de trabajo">Documentación de trabajo</a>
+      <ul>
+        <li><a href="/procedimientos/defensa-libertad-expresion/documentacion/#antecedentes" title="Antecedentes">Antecedentes</a></li>
+        <li><a href="/procedimientos/defensa-libertad-expresion/documentacion/#resoluciones" title="Resoluciones">Resoluciones judiciales</a></li>
+      </ul>
+    </li>
+    <li><a href="/procedimientos/defensa-libertad-expresion/escritos" title="Escritos">Escritos</a></li>
+    <li><a href="/procedimientos/defensa-libertad-expresion/historial" title="Historial del procedimiento">Historial del procedimiento</a></li>
+  </ul>
+</div>
+<div style="clear:both;"></div>
+<!-- Fin de menú -->
+{% endblock -%}  
+{{ page.content }}
+
+
