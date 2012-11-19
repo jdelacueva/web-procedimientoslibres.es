@@ -9,8 +9,10 @@
   <h3>Procedimiento Finalizado</h3>
   <p class="meta">Finalización del procedimiento: {{ page.fecha_final}}</p>
   {% endif %}
-</p>
   {% block navigation %}{% endblock %}
   {{ page.content }}
+  {% if page.disqus %}
+  {% include 'disqus.html' %}
+  {% endif %}
 </div>
 {% endblock %}

@@ -3,7 +3,7 @@ template: self
 
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>{{ settings.author_name }}</title>
+    <title>{{ settings.website_title }}</title>
     <link href="{{ settings.website_url }}/atom.xml" rel="self" />
     <link href="{{ settings.website_url }}" />
     <updated>{{ settings.build_time|datetimeformat("%Y-%m-%dT%H:%M:%SZ") }}</updated>
