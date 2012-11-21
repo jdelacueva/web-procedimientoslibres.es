@@ -1,0 +1,5 @@
+status: hidden
+template: self
+
+User-agent: *
+Disallow: 

@@ -1,0 +1,51 @@
+2012-11-21  Javier de la Cueva  <jdelacueva@derecho-internet.org>
+
+	* _input/css/style.css: Inclusión estilo para directiva de rst
+	`contents`.
+
+	* _input/procedimientos/reclamacion-canon/historial/index.rst:
+	Incorporación historial de reclamación del canon desde 30-08-2003
+	hasta 11-02-2004.
+
+	* _input/procedimientos/reclamacion-canon/escritos/index.rst:
+	Inclusión escritos presentados ante el Ministerio de Cultura.
+
+	* _input/procedimientos/tasas-judiciales/documentacion/index.rst:
+	Inclusión referencia Ley por la que se regulan determinadas tasas
+	en el ámbito de la Administración de Justicia y del Instituto
+	Nacional de Toxicología y Ciencias Forenses y enlace al BOE.
+	* _input/procedimientos/tasas-judiciales/documentacion/index.rst:
+	Inclusión enlace a Constitución española.
+
+	* _input/procedimientos/tasas-judiciales/documentacion/index.rst:
+	Inclusión normativa LOTC sobre aspectos procesales de la
+	impugnación.
+
+2012-11-20  Javier de la Cueva  <jdelacueva@derecho-internet.org>
+
+	* _templates/base.html: Corrección de footer.
+
+	* _input/procedimientos/tasas-judiciales/documentacion/index.rst:
+	Inclusión de STC 141/1988.
+
+2012-11-19  Javier de la Cueva  <jdelacueva@derecho-internet.org>
+
+	* README.txt: Explicación más detallada de instalación de la web.
+
+	* _input/procedimientos/tasas-judiciales/documentacion/index.rst:
+	Doctrina de CGAE, UGT, CCOO y AEAFA.
+
+	* _input/procedimientos/tasas-judiciales/documentacion/index.rst:
+	Jurisprudencia del TEDH y TC sobre tasas judiciales.
+
+	* _templates/disqus.html: Creación de plantilla para incluir
+	comentarios Disqus en las páginas que se estime conveniente.
+
+	* Inclusión de comentarios Disqus.
+
+2012-11-18  Javier de la Cueva  <jdelacueva@derecho-internet.org>
+
+	* Código de la web estática
+
+	* Puesta en línea de http://procedimientoslibres.es
+

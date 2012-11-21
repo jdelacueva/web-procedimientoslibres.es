@@ -19,11 +19,14 @@ Escritos
 
   http://derecho-internet.org/svn/procedimientos-libres/canon/trunk/escritos/defensa_competencia/
 
-* Ante ICAM
+* Ante el ICAM
 
   http://derecho-internet.org/svn/procedimientos-libres/canon/trunk/escritos/icam/
+
+* Ante el Ministerio de Cultura
+
+  http://derecho-internet.org/node/245
 
 * Ante los Juzgados
 
   http://derecho-internet.org/svn/procedimientos-libres/canon/trunk/escritos/juzgados/
-
