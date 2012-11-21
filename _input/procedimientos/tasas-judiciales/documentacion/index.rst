@@ -61,6 +61,11 @@ Normativa auxiliar para la impugnación
 Resoluciones
 ============
 
+* Sentencia 141/1988, de 12 de julio de 1988, del Tribunal
+  Constitucional.
+
+  https://www.boe.es/buscar/doc.php?coleccion=tc&id=SENTENCIA-1988-0141
+
 * Sentencia de 19-06-2001 del Tribunal Europeo de Derechos Humanos.
   Caso Kreuz contra Polonia. Formato pdf, lengua inglesa.
 
