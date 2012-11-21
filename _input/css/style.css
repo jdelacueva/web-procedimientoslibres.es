@@ -199,6 +199,7 @@ ul.posts {
 
 #navigation {
     width: 100%;
+    border: 1px solid #bbb;
     background: #e0e0e0;
     float: left;
     margin-bottom:20px;
@@ -247,7 +248,7 @@ ul.posts {
     z-index:200;
 }
 
-.menu li:hover ul{
+.menu li:hover ul {
     display:block;
 }
 
@@ -259,7 +260,7 @@ ul.posts {
 
 .menu li ul a{
     display:block;
-    padding:0px 10px 0px 15px;
+    padding:10px;
     text-align:left;
 }
 
@@ -288,7 +289,8 @@ p.topic-title {
 
 #contenido {
     width: 100%;
-    background: #e0e0e0;
+    background: #eeeeff;
+    border: 1px solid #ccc;
     padding-bottom:20px;
     margin-bottom:20px;
 }

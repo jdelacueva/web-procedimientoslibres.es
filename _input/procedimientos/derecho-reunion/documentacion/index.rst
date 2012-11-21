@@ -35,8 +35,8 @@ miembros de las Fuerzas Armadas.
 https://www.boe.es/buscar/doc.php?id=BOE-A-2011-12961
 
 
-Resoluciones judiciales
-=======================
+Resoluciones
+============
 
 Sentencia 96/2010, de 15 de noviembre de 2010, de la Sala Segunda del
 Tribunal Constitucional.
@@ -50,7 +50,7 @@ Doctrina
 Le recomendamos la lectura de la doctrina que figura en la web del
 Congreso de los Diputados, que es una sinopsis realizada por Ascensión
 Elvira Perales, profesora titular de la Universidad Carlos III, en
-diciembre de 2003 y actualizada por Ángeles González Escudero, Letrada
-de las Cortes Generales en enero de 2011:
+diciembre de 2003, y actualizada por Ángeles González Escudero, Letrada
+de las Cortes Generales, en enero de 2011:
 
 http://www.congreso.es/consti/constitucion/indice/sinopsis/sinopsis.jsp?art=21&tipo=2
