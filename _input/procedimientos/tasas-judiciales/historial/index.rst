@@ -6,6 +6,14 @@ date: 18-11-2012
 Historial del procedimiento
 ===========================
 
+21-11-2012: Publicación de la ley en el Boletín Oficial del Estado
+==================================================================
+
+Se publica en el Boletín Oficial del Estado (BOE) el texto de la ley:
+
+https://www.boe.es/diario_boe/txt.php?id=BOE-A-2012-14301
+
+
 14-11-2012: Aprobación de la Ley por el Senado
 ==============================================
 

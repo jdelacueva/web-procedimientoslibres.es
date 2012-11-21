@@ -12,8 +12,9 @@ Normativa a impugnar
 
 * Ley por la que se regulan determinadas tasas en el ámbito de la
   Administración de Justicia y del Instituto Nacional de Toxicología y
-  Ciencias Forenses. (Pendiente de publicación en el Boletín Oficial
-  del Estado).
+  Ciencias Forenses.
+
+  https://www.boe.es/diario_boe/txt.php?id=BOE-A-2012-14301
 
 Antecedentes normativos
 -----------------------
