@@ -1,5 +1,9 @@
 2012-11-21  Javier de la Cueva  <jdelacueva@derecho-internet.org>
 
+	* _input/favicon.ico: Inclusión de favicon.ico
+
+	* _input/robots.txt: Plantilla para robots.txt
+
 	* _input/css/style.css: Inclusión estilo para directiva de rst
 	`contents`.
 
