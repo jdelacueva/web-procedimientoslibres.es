@@ -7,8 +7,12 @@ disqus: True
 Documentación de trabajo
 ========================
 
-Normativa a impugnar
-====================
+Normas
+======
+
+-----------------------------------------------
+Sobre el fondo del asunto: Normativa a impugnar
+-----------------------------------------------
 
 * Ley por la que se regulan determinadas tasas en el ámbito de la
   Administración de Justicia y del Instituto Nacional de Toxicología y
@@ -58,6 +62,20 @@ Normativa auxiliar para la impugnación
 --------------------------------------
 
 * Constitución española.
+
+  http://www.congreso.es/consti/
+
+----------------------------------------------------------------
+Procesales: Planteamiento de la cuestión de inconstitucionalidad
+----------------------------------------------------------------
+
+* Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional.
+
+  https://www.boe.es/buscar/act.php?id=BOE-A-1979-23709
+
+  Especialmente, ver los artículos 35 y siguientes:
+
+  https://www.boe.es/buscar/act.php?id=BOE-A-1979-23709&tn=1&p=20101105#atreintaycinco
 
 Resoluciones
 ============

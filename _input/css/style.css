@@ -32,6 +32,7 @@ p, ul, ol {
 
 a {
   color: #00a;
+    text-decoration: none
 }
 
 a:visited { 
@@ -269,3 +270,33 @@ ul.posts {
     filter:alpha(opacity=100);
 }
 
+/* directiva contents */
+
+a.toc-backref {
+  color: #000;
+  text-decoration: none
+}
+
+a.toc-backref:visited { 
+    color: #000; 
+    text-decoration: none
+} 
+
+p.topic-title {
+    padding: 1em 0 0 1em;
+}
+
+#contenido {
+    width: 100%;
+    background: #e0e0e0;
+    margin-bottom:20px;
+}
+
+#contenido ul, #contenido ul ul {
+  list-style-type: none;
+  margin-bottom: 0em;
+}
+
+#contenido li {
+    line-height: 1.75em;
+  }
