@@ -65,6 +65,15 @@ Normativa auxiliar para la impugnación
 
   http://www.congreso.es/consti/
 
+* Instrucción 5/2012, de 21 de noviembre, de la Secretaría General de
+  la Administración de Justicia, relativa a la liquidación de la tasa
+  judicial con motivo de la entrada en vigor de la Ley 10/2012, de 20
+  de noviembre, por la que se regulan determinadas tasas en el ámbito
+  de la Administración de Justicia y del Instituto Nacional de
+  Toxicología y Ciencias Forenses
+
+  http://www.sisej.com/documentos/circulares-e-instrucciones/doc_view/1644-instruccion-52012-del-secretario-general-aj-sobre-aplicacion-ley-de-tasas-102012
+
 ----------------------------------------------------------------
 Procesales: Planteamiento de la cuestión de inconstitucionalidad
 ----------------------------------------------------------------
