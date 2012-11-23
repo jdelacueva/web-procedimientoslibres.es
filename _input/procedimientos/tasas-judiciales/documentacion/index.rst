@@ -70,7 +70,7 @@ Normativa auxiliar para la impugnación
   judicial con motivo de la entrada en vigor de la Ley 10/2012, de 20
   de noviembre, por la que se regulan determinadas tasas en el ámbito
   de la Administración de Justicia y del Instituto Nacional de
-  Toxicología y Ciencias Forenses
+  Toxicología y Ciencias Forenses.
 
   http://www.sisej.com/documentos/circulares-e-instrucciones/doc_view/1644-instruccion-52012-del-secretario-general-aj-sobre-aplicacion-ley-de-tasas-102012
 
@@ -108,6 +108,11 @@ Resoluciones
   Constitucional.
 
   https://www.boe.es/diario_boe/txt.php?id=BOE-A-2012-7513
+
+* Sentencia 164/2012, de 1 de octubre de 2012, del Tribunal
+  Constitucional.
+
+  https://www.boe.es/diario_boe/txt.php?id=BOE-A-2012-13573
 
 Doctrina
 ========
